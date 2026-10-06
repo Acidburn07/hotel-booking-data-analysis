@@ -1,14 +1,14 @@
 # Personal working notebooks
 
 1. Copy `../Hotel_Booking_Final_Project.ipynb` here as `<your-first-name>.ipynb` and work **only in your own file**.
-2. Because your copy is one folder deeper, change the three file paths in section 2 from `../` to `../../`
-   (e.g. `DATA_FILE = "../../data/hotel_bookings_final_project.csv"`). `Sandesh.ipynb` already shows this.
-   The master notebook follows the Moodle page's *Recommended notebook structure*; keep those headings in that order.
-3. Fill in only the sections from your own GitHub issues. Leave everyone else's `TODO`s alone.
-4. Don't add exports (the last section, *Exports and verification*) in your copy; the integrator does that in the master notebook.
-5. Commit with the issue number (e.g. `RQ2 groupby and box plot (#9)`), push, then comment on your issue so the integrator can merge it.
+   It follows the Moodle page's *Recommended notebook structure*, with the requirements and a **Covered by** line under each heading. Keep the headings in that order.
+2. Fill in **only the sections covered by you**. Leave everyone else's sections empty in your copy.
+3. If your part needs the data to run, load it inside your own section. Your copy is one folder deeper, so use
+   `pd.read_csv("../../data/hotel_bookings_final_project.csv")`. `Sandesh.ipynb` shows this.
+4. Commit with the issue number (e.g. `RQ2 groupby and box plot (#9)`), push, then comment on your issue so the integrator can merge it.
+5. If something is unclear or two parts overlap, raise it in the group and we discuss it in a meeting.
 
-| File | Owner | Issues |
+| File | Covered by | Issues |
 |---|---|---|
 | `Sandesh.ipynb` | Sandesh Bishokarma | #1, #8, #9 (#13 later, with everyone) |
 | `Tanka.ipynb` | Tanka Raj Aryal | #3, #4, #5 |

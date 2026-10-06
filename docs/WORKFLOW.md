@@ -20,7 +20,7 @@ Each member also writes the *What can we observe?* text under their own charts. 
 Notebooks (`.ipynb`) are JSON files and are hard to merge in git. To avoid conflicts, **nobody edits the master notebook except the integrator.**
 
 1. **First time:** in VS Code, open the Command Palette, run **Git: Clone**, and paste
-   `https://github.com/Acid-Burn-del/hotel-booking-data-analysis.git`.
+   `https://github.com/Acidburn07/hotel-booking-data-analysis.git`.
 2. Copy `notebooks/Hotel_Booking_Final_Project.ipynb` to `notebooks/work/<your-first-name>.ipynb`. Work only in your copy.
 3. **Before you start each day:** pull (Source Control → `…` → Pull).
 4. **When a section is done:** commit with a clear message, e.g. `Cleaning log: duplicates and zero-night decisions (#3)`. Then push.

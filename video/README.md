@@ -7,7 +7,8 @@ The brief asks for **one recorded project video** in which **every group member 
 1. Each member records **their own clip** about the part they did: a screen recording of the notebook plus their voice, about 2–3 minutes. Start by saying your name.
 2. Upload your clip to the shared Drive folder `video/clips/` (not to GitHub; video files are too large).
 3. The video lead (**Sushant**) merges the 4 clips **in the order below** into one video, with a short title card (project name and all 4 names).
-4. Upload the final video to Google Drive or YouTube (unlisted), set to **anyone with the link can view**, and paste the link below.
+4. Attach the final .mp4 to this repo as a **GitHub Release** (Releases → Draft a new release → tag `v1.0` → attach the file → Publish). The submission page says the submitted location must *contain* the video, so it has to be in the repo itself.
+5. As a backup, also upload it to Google Drive or YouTube (unlisted), set to **anyone with the link can view**, and paste the link below.
 
 | # | Part | Speaker | Clip due |
 |---|---|---|---|

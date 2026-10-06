@@ -3,8 +3,9 @@
 1. Copy `../Hotel_Booking_Final_Project.ipynb` here as `<your-first-name>.ipynb` and work **only in your own file**.
 2. Because your copy is one folder deeper, change the three file paths in section 2 from `../` to `../../`
    (e.g. `DATA_FILE = "../../data/hotel_bookings_final_project.csv"`). `Sandesh.ipynb` already shows this.
+   The master notebook follows the Moodle page's *Recommended notebook structure*; keep those headings in that order.
 3. Fill in only the sections from your own GitHub issues. Leave everyone else's `TODO`s alone.
-4. Don't run or commit the exports (section 9) from your copy; the integrator does that in the master notebook.
+4. Don't add exports (the last section, *Exports and verification*) in your copy; the integrator does that in the master notebook.
 5. Commit with the issue number (e.g. `RQ2 groupby and box plot (#9)`), push, then comment on your issue so the integrator can merge it.
 
 | File | Owner | Issues |

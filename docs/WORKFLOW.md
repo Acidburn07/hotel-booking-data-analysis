@@ -4,10 +4,10 @@
 
 | Role | Owner | Notebook sections | Research question & charts | Report / video part |
 |---|---|---|---|---|
-| **A – Data lead** | Tanka Raj Aryal | 1 Context, 3 Load & inspect, 4 Cleaning log & cleaned copy | Supplies the clean data | Intro, dataset, cleaning decisions |
-| **B – Profiling** | Sushant Koirala | 5 Derived variables, 6 Single-variable analysis (2 categorical + 2 numerical) | Numerical distribution chart | What the variables look like |
-| **C – Relationships** | Sandesh Bishokarma | 7 Crosstab (hotel × cancellation) + groupby (lead time by cancellation) | RQ1 + RQ2, categorical and grouped charts | Findings for RQ1 and RQ2 |
-| **D – Integrator** | Anup Kandel | 7 Time analysis, 9 Exports & verification, merging the master notebook | RQ3, time-based chart | Findings for RQ3, conclusion, recommendation |
+| **A – Data lead** | Tanka Raj Aryal | Context and research questions; Load and inspect; Data-quality assessment and cleaning log | Supplies the clean data | Intro, dataset, cleaning decisions |
+| **B – Profiling** | Sushant Koirala | Transformations and derived variables; Individual-variable analysis (2 categorical + 2 numerical) | Numerical distribution chart | What the variables look like |
+| **C – Relationships** | Sandesh Bishokarma | Relationships: crosstab (hotel × cancellation) + groupby (lead time by cancellation) | RQ1 + RQ2, categorical and grouped charts | Findings for RQ1 and RQ2 |
+| **D – Integrator** | Anup Kandel | Relationships: time analysis; Final visualizations; Exports and verification; merging the master notebook | RQ3, time-based chart | Findings for RQ3, conclusion, recommendation |
 
 Roles are split by complexity: High → Anup, Moderate → Sandesh, Easy → Sushant, remaining role → Tanka.
 

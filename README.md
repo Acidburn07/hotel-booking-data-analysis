@@ -8,12 +8,12 @@ We analyse 1,000 hotel bookings from a City Hotel (Lisbon) and a Resort Hotel (A
 
 ## Group members
 
-| Member | Role | GitHub |
-|---|---|---|
-| Sandesh Bishokarma | TODO: role (A / B / C / D) | @Acid-Burn-del |
-| TODO: full name | TODO | TODO |
-| TODO: full name | TODO | TODO |
-| TODO: full name | TODO | TODO |
+| Member | Role | Complexity | GitHub |
+|---|---|---|---|
+| Anup Kandel | D – Integrator (RQ3 time analysis, master notebook, exports, submission) | High | TODO |
+| Sandesh Bishokarma | C – Relationships (RQ1 crosstab, RQ2 groupby) | Moderate | @Acid-Burn-del |
+| Sushant Koirala | B – Profiling (derived variables, single-variable analysis) | Easy | TODO |
+| Tanka Raj Aryal | A – Data lead (context, load & inspect, cleaning log) | Remaining role | TODO |
 
 Roles are described in [docs/WORKFLOW.md](docs/WORKFLOW.md). Tasks are tracked in [Issues](../../issues), grouped by [milestone](../../milestones).
 
